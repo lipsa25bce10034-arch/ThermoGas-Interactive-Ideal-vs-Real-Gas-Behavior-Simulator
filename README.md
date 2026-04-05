@@ -153,6 +153,7 @@ ThermoGas-Interactive-Ideal-vs-Real-Gas-Behavior-Simulator/
 git clone https://github.com/lipsa25bce10034-arch/ThermoGas.git
 cd ThermoGas
  Install Dependencies
-pip install -r requirements.txt
- Run Application
+ pip install -r requirements.txt
+
+. Run Application
 streamlit run app.py
