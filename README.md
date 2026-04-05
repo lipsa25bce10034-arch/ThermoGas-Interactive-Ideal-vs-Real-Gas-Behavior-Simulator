@@ -144,3 +144,15 @@ ThermoGas-Interactive-Ideal-vs-Real-Gas-Behavior-Simulator/
 ### Deviation Visualization
 ![Deviation](assets/screenshots/deviation_graph.png)
 
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/lipsa25bce10034-arch/ThermoGas.git
+cd ThermoGas
+ Install Dependencies
+pip install -r requirements.txt
+ Run Application
+streamlit run app.py
