@@ -129,7 +129,18 @@ ThermoGas-Interactive-Ideal-vs-Real-Gas-Behavior-Simulator/
 ├── screenshots/  
 
 
----
+#### Screenshots
 
-## ⚙️ Installation & Setup
+### Dashboard
+![Dashboard](assets/screenshots/dashboard.png)
+
+### Gas Law Graph
+![Gas Law](assets/screenshots/gas_law_graph1.png)
+![Gas Law](assets/screenshots/gas_law_graph2.png)
+
+###  Ideal vs Real Gas
+![Comparison](assets/screenshots/ideal_vs_real.png)
+
+### Deviation Visualization
+![Deviation](assets/screenshots/deviation_graph.png)
 
