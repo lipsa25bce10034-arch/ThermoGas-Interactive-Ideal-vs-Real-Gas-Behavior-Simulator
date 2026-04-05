@@ -125,6 +125,7 @@ elif menu == "Deviation Visualization":
     st.pyplot(fig)
 
     # Deviation Calculation
+    
     deviation = np.abs((real_P - ideal_P) / ideal_P) * 100
     avg_dev = np.mean(deviation)
 
