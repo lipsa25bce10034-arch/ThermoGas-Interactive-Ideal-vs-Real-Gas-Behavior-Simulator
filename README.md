@@ -1,10 +1,11 @@
 ###ThermoGas: Interactive Ideal vs Real Gas Behavior Simulator
 
-Course Details
-Subject: Introduction to Computational Chemistry
-Professor: Dr. Saurav Prasad
-Institution: Vellore Institute of Technology (VIT Bhopal)
-Semester: Winter Semester 2025
+##Course Details
+Subject: Introduction to Computational Chemistry  
+Professor: Dr. Saurav Prasad  
+Institution: Vellore Institute of Technology (VIT Bhopal)  
+Semester: Winter Semester 2025  
+
 
 Student Contributors: 
 
