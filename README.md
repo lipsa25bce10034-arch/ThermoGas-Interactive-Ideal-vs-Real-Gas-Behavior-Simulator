@@ -72,7 +72,8 @@ PV = nRT
 ---
 
 ##  Project Structure
-ThermoGas-Interactive-Ideal-vs-Real-Gas-Behavior-Simulator/
+ThermoGas-Interactive-Ideal-vs-Real-Gas-Behavior-Simulator/  
+
 │
 ├── app.py # Main Streamlit application  
 
