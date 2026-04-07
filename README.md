@@ -8,9 +8,11 @@ Semester: Winter Semester 2025
 
 
 ## Student Contributors: 
-Lipsa Rani Panda(25BCE10034)
-Preeti Chauhan(25BCE10546)
-Siya Julka(25BCE10477)
+Lipsa Rani Panda(25BCE10034)  
+Preeti Chauhan(25BCE10546)  
+Siya Julka(25BCE10477)  
+Anushka Jain(25BCE10087)  
+Rakshita Ranjan(25BCE10602)
 
 ##  Project Description
 
