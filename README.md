@@ -86,46 +86,27 @@ PV = nRT
 
 ##  Project Structure
 ThermoGas-Interactive-Ideal-vs-Real-Gas-Behavior-Simulator/  
-
 │
 ├── app.py # Main Streamlit application  
-
 ├── README.md # Project documentation  
-
 ├── requirements.txt # Dependencies  
-
 │
 ├── modules/ # Core logic  
-
 │ ├── gas_laws.py  
-
 │ ├── ideal_gas.py  
-
 │ ├── real_gas.py  
-
 │ ├── deviation.py  
-
 │ ├── compressibility.py  
-
 │
 ├── graphs/ # Graph generation  
-
 │ ├── gas_law_graphs.py  
-
 │ ├── comparison_graphs.py  
-
 │
 ├── data/ # Gas constants dataset  
-
 │ ├── gas_constants.csv  
-
 │
 ├── utils/ # Helper functions  
-
-│ ├── constants.py  
-
-│ ├── helpers.py  
-
+│ ├── constants.py    
 │
 └── assets/ # Screenshots for README  
 
